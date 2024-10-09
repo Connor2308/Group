@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>#########</title>
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/style.css">
     
 
 </head>
@@ -17,7 +17,13 @@
             </ul>
         </div>
         <div class="content">
-                <h1>########</h1>
+                <h1></h1>
+                <p class="par"></p>
+                <h2></h2>
+                <p class="par"></p>
+                <h2></h2>
+                <p class="par"></p>
+                <h2></h2>
                 <p class="par"></p>
 
             </div>
